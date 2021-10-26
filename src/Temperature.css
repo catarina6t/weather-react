@@ -1,7 +1,9 @@
 li {
+  list-style: none;
   color: #344358;
   font-size: 16px;
   font-weight: 100;
+  line-height: 19px;
 }
 
 li:first-letter {
@@ -11,13 +13,15 @@ li:first-letter {
 .weather-temperature strong {
   color: rgb(55, 63, 81);
   font-size: 70px;
+  line-height: 1;
   font-weight: 400;
 }
 
 .weather-temperature {
-  color: black;
+  margin-left: 300px;
+  margin-top: 30px;
 }
 
 .forecast-temp {
-  color: black;
+  margin-left: 600px;
 }
