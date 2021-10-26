@@ -38,7 +38,7 @@ export default function Search() {
         <Forecast />
         <h3 className="update"> Last Updated Sunday 22:33 || Clear Sky </h3>
       </div>
-      <h3 className="update-by"> Open-source by Cate </h3>
+      <h3 className="update-by"> Open-source code by Cate </h3>
     </div> /*MASTER*/
   );
 }

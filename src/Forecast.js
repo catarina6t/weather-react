@@ -6,7 +6,7 @@ export default function Forecast() {
       <div className="col-2 mt-5 text-center">
         <h3> Sun </h3>
         <img
-          src="http://openweathermap.org/img/wn/01d.png"
+          src="http://www.openweathermap.org/img/wn/01d.png"
           alt="Clear"
           id="icon"
           className="float-center"
@@ -18,7 +18,7 @@ export default function Forecast() {
       <div className="col-2 mt-5 text-md-center">
         <h3> Mon </h3>
         <img
-          src="http://openweathermap.org/img/wn/02d.png"
+          src="http://www.openweathermap.org/img/wn/02d.png"
           alt="Clear"
           id="icon"
           className="float-center"
@@ -30,7 +30,7 @@ export default function Forecast() {
       <div className="col-2  mt-5 text-md-center">
         <h3> Tue </h3>
         <img
-          src="http://openweathermap.org/img/wn/04d.png"
+          src="http://www.openweathermap.org/img/wn/04d.png"
           alt="Clear"
           id="icon"
           className="float-center"
@@ -42,7 +42,7 @@ export default function Forecast() {
       <div className="col-2  mt-5 text-md-center">
         <h3> Wed </h3>
         <img
-          src="http://openweathermap.org/img/wn/02d.png"
+          src="http://www.openweathermap.org/img/wn/02d.png"
           alt="Clear"
           id="icon"
           className="float-center"
@@ -54,7 +54,7 @@ export default function Forecast() {
       <div className="col-2  mt-5 text-md-center">
         <h3> Thu </h3>
         <img
-          src="http://openweathermap.org/img/wn/02d.png"
+          src="http://www.openweathermap.org/img/wn/02d.png"
           alt="Clear"
           id="icon"
           className="float-center"
@@ -67,7 +67,7 @@ export default function Forecast() {
         <h3> Fri </h3>
 
         <img
-          src="http://openweathermap.org/img/wn/02d.png"
+          src="http://www.openweathermap.org/img/wn/02d.png"
           alt="Clear"
           id="icon"
           className="float-center"
