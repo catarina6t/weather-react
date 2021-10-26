@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-weight: 100;
+  line-height: 20px;
 }
 
 .App {
