@@ -1,0 +1,61 @@
+h1 {
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.container {
+  font-family: "Roboto", sans-serif;
+  font-weight: 120;
+  background-color: #eef5fd;
+  border-style: solid;
+  border-color: #9dc3d6;
+  border-radius: 20px;
+}
+
+.container:hover {
+  background-color: #eef5fd;
+  border-color: #9dc3d6;
+  transition: all ease-in-out 800ms;
+}
+
+#search-button {
+  background-color: #548ca8;
+  border-style: solid;
+  border-color: #548ca8;
+}
+
+#search-button:hover {
+  background-color: #558ca8;
+  border-style: 2pc solid;
+  border-color: #558ca8;
+}
+
+#city-input {
+  background-color: transparent;
+  border-color: #558ca8;
+}
+
+#row {
+  top: 40px;
+}
+
+.city {
+  font-size: 40px;
+}
+.weather-app-wrapper {
+  max-width: 600px;
+}
+
+.weather-app {
+  border-radius: 5px;
+}
+
+.update {
+  font-size: 20px;
+}
+.update-by {
+  font-size: 15px;
+}

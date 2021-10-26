@@ -1,0 +1,23 @@
+li {
+  color: #344358;
+  font-size: 16px;
+  font-weight: 100;
+}
+
+li:first-letter {
+  text-transform: capitalize;
+}
+
+.weather-temperature strong {
+  color: rgb(55, 63, 81);
+  font-size: 70px;
+  font-weight: 400;
+}
+
+.weather-temperature {
+  color: black;
+}
+
+.forecast-temp {
+  color: black;
+}
