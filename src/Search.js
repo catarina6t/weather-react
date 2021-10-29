@@ -9,7 +9,7 @@ export default function Search() {
       <div className="container">
         <div class="weather-app-wrapper">
           <div class="row">
-            <div class="col-9">
+            <div class="col-12">
               <form id="search-form" className="nb-3">
                 <input
                   type="search"
@@ -20,11 +20,11 @@ export default function Search() {
                 />
               </form>
             </div>
-            <div className="col-3">
+            <div className="col-12">
               <input
                 type="submit"
                 value="Search"
-                className="btn btn-primary w-100"
+                className="btn btn-primary w-200"
                 id="search-button"
               />
             </div>
