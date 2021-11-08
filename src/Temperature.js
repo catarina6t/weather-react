@@ -17,13 +17,8 @@ export default function Temperature(props) {
             <div className="float-left">
               <strong className="temperature">19</strong>
               <span className="units">
-                <a href="#" id="celsius-link">
-                  {props.Celsius} ºC
-                </a>
-                |
-                <a href="#" id="fahrenheit-link">
-                  {props.fahrenheit} ºF
-                </a>
+                <button id="celsius-link">{props.Celsius} ºC</button>|
+                <button id="fahrenheit-link">{props.fahrenheit} ºF</button>
               </span>
             </div>
           </div>
